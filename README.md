@@ -1,7 +1,7 @@
 # RNA-seq Analysis of Breast Cancer Transcriptomes
 
 ## Overview
-This project replicates an RNA-seq study on **breast cancer** (*Accession: PRJNA76246*), analyzing **tumor vs. normal gene expression** to identify cytotoxicity-related genes involved in cancer progression. The dataset includes **60 paired-end RNA-seq samples** retrieved from the **Sequence Read Archive (SRA)**.
+This project replicates an RNA-seq study on **breast cancer** (*Accession: PRJNA76246*), analyzing **tumor vs. normal gene expression** to identify cytotoxicity-related genes involved in cancer progression. The dataset includes **60 paired-end RNA-seq samples** retrieved from the **Sequence Read Archive (SRA)**. This analysis was done for the BIOL 6150 (Genomics and Applied Bioinformatics) course and uses the PACE-ICE HPC environment. 
 
 ## Dataset Information
 - **Project Accession:** [PRJNA76246](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA76246)
