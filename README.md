@@ -25,7 +25,8 @@ This project replicates an RNA-seq study on **breast cancer** (*Accession: PRJNA
 ### 3. Quantification
 - Transcript quantification using `Salmon`
 - **Reference Genome:** GRCh38 human reference transcriptome (From NCBI FTP website - https://ftp.ncbi.nlm.nih.gov/refseq/H_sapiens/annotation/GRCh38_latest/refseq_identifiers/.)
-Specs:
+
+**Specs:**
 
     Assembly name: GRCh38.p14 - GRCh38, patch 14
     Assembly accession: GCF_000001405.40
